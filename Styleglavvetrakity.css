@@ -1,0 +1,44 @@
+/*.Zelonkubtext{
+    position: static;
+    width: 1180px;
+    height: 48px;
+    left: 370px;
+    top: 100px;
+    
+
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 133%;
+
+    
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    
+
+    
+    color: #2E363E;
+    
+    
+
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 80px 0px;
+}
+
+.zelenikub{
+    display: flex;
+    flex-direction: column;
+    padding: 100px 370px;
+
+    width: 1920px;
+    height: 550px;
+    left: 0px;
+    top: 1607px;
+    background: #8DD3B2;
+}*/
