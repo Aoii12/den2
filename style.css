@@ -1,15 +1,59 @@
-.header{
-    position: absolute;
-    width: 1920px;
-    height: 120px;
-    left: 0px;
-    top: 0px;
-    background: #00ff15;
-    font-family:Montserrat;
+ul{
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+    margin-right: 50px; /* Отступ слева */
+    padding: 3px; /* Поля вокруг текста */
+    background: #ffffff;
+    
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+}
+
+ul li:nth-child(1){
+    margin-right: 10px;
 }
 
 .container2{
+    display: flex;
     font-family:Montserrat;
     font-size: 14px;;
+    justify-content: space-between;
+    align-items: center;
+
 }
 
+.container{
+    max-width: 1400px;
+    margin: 0 auto;
+    
+}
+
+.lishki{
+    display: flex;
+    font-family:Montserrat;
+    font-size: 14px;;
+    justify-content: space-between;
+    width: 1100px;
+    align-items: center;
+    list-style-type: none;
+    
+}
+
+header{
+    height: 100px;
+}
+
+.telephone{
+    font-family: Montserrat;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.ezhednev p{
+    font-size: 13px;
+    margin-left: 15px;
+}
